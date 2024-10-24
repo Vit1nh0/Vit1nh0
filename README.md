@@ -33,4 +33,4 @@
 ## Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-novaes-225bb52b6)](https://www.linkedin.com/in/victor-novaes-225bb52b6)
-[![Gmail Badge](https://img.shields.io/badge/-vg.novaes@hotmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vg.novaes@hotmail.com)](mailto:vg.novaes@hotmail.com
+[![Gmail Badge](https://img.shields.io/badge/-vg.novaes@hotmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vg.novaes@hotmail.com)](mailto:vg.novaes@hotmail.com)
